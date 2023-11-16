@@ -6,7 +6,7 @@ app.get("/", (req, res) => {
 })
 
 app.get("/new", (req, res) => {
-    res.send("also works now")
+    res.send("also works now lol")
 })
 
 
